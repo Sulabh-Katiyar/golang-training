@@ -2,4 +2,4 @@
 
 git add -A .
 git commit -m "Upload"
-git push
+git push  origin master
